@@ -456,7 +456,7 @@ body{
     box-shadow: 0 2px 18px #0007;
   }
   .modal-prev:hover, .modal-next:hover {
-    background: #09fdfd;
+    background: #ffffff7e;
     color: #222;
   }
   .modal-prev { left: 48px; }
@@ -526,3 +526,4 @@ outline: none;
     0%, 100%{transform: translateY(0);}
     50%{transform: translateY(-20px);}
 }
+
