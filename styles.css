@@ -496,7 +496,7 @@ width: 95%;
 background: none;
 border-radius: 8px;
 border: 1px solid var(--escuro);
-color: #020008;
+color: #ffffff7e;
 outline: none;
 }
 .campo-formulario:hover{
@@ -527,3 +527,4 @@ outline: none;
     50%{transform: translateY(-20px);}
 
 }
+
